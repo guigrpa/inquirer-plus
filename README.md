@@ -1,7 +1,7 @@
 Inquirer.js
 ===========
 
-[![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer) [![tests](https://travis-ci.org/SBoudrias/Inquirer.js.svg?branch=master)](http://travis-ci.org/SBoudrias/Inquirer.js) [![Coverage Status](https://coveralls.io/repos/yeoman/generator/badge.svg)](https://coveralls.io/r/SBoudrias/Inquirer.js) [![dependencies](https://david-dm.org/SBoudrias/Inquirer.js.svg?theme=shields.io)](https://david-dm.org/SBoudrias/Inquirer.js)
+[![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer-plus)
 
 A collection of common interactive command line user interfaces.
 
